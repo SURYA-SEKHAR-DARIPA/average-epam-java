@@ -27,7 +27,7 @@ class AverageTest {
         try {
             Average.main(new String[]{});
             controlledOut.flush();
-            assertEquals("Error on input " + input, expected, sink.toString().trim());
+            assertEquals(expected, sink.toString().trim(), "Error on input " + input);
         } finally {
             setStandardStreams();
         }
