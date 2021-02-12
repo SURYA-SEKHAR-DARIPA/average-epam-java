@@ -1,8 +1,8 @@
 # Average
 
-Complete the code to compute average value of a given a sequence of numbers.
+Complete the code to compute average value of a given sequence of numbers.
 
-A sequence consists of **integer** values and may be up to 100 length long and ends with the `0`.
+A sequence consists of **integer** values and may be up to 100 length long and ends up with the `0`.
 
 Average value is also **integer**. Use **integer** operations.
 
