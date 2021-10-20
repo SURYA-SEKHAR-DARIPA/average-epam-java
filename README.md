@@ -1,14 +1,21 @@
 # Average
 
-Complete the code to compute average value of a given sequence of numbers.
+The purpose of this exercise is to train you to use simple loops and conditional statements.
 
-A sequence consists of **integer** values. It may be up to 100 values in length and it finishes with `0`.
+Estimated workload of this exercise is _20 min_.
 
-Average value is also an **integer**. Use **integer** operations.
+### Description
 
-Get a sequence of numbers from standard input and print the result to standard output.
+Please, proceed to [Average](src/main/java/com/epam/rd/autotasks/Average.java) class
+and write a program that reads a sequence of integer values from standard output and finds the average value.
 
-## Examples
+Details:
+
+- You must read sequence values until the next one is `0`. Zero value means end of the input sequence.
+- The sequence is guaranteed to contain at least one value.
+- Average value is also an **integer**. Use **integer** operations.
+
+### Examples
 
 ---
 Input: `1 2 3 4 5 0`
