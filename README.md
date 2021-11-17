@@ -7,7 +7,7 @@ Estimated workload of this exercise is _20 min_.
 ### Description
 
 Please, proceed to [Average](src/main/java/com/epam/rd/autotasks/Average.java) class
-and write a program that reads a sequence of integer values from standard output and finds the average value.
+and write a program that reads a sequence of integer values from standard input and finds the average value.
 
 Details:
 
